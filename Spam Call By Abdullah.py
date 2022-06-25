@@ -29,7 +29,7 @@ else:
     print ('\033[1;91mError Password')
     #exit()
 
-"""c=('\033[1;092m××××××××××××××××××××××××××××××××××××')
+"""c=('\033[1;092m×××××××××××××××××××××××××××××××××××××')
 for I in c+'\n':
 	sys.stdout.write (I)
 	sys.stdout.flush ()
@@ -50,7 +50,7 @@ print ()
 u=('\033[1;092m### Projected By Abdullah Salah###')"""
 
 u='''
-××××××××××××××××××××××××××××××××××××××××
+×××××××××××××××××××××××××××××××××××××××××
 
 ######## Welcome To AbdullahScript#####
 
@@ -61,7 +61,7 @@ for I in u+'\n':
 
 	sys.stdout.write (I)
 	sys.stdout.flush ()
-	time.sleep (00.050)
+	time.sleep (00.030)
 print ()
 #print ('\033[1;091m')
 '''h=pyfiglet.figlet_format ('ABDULLAH')
@@ -71,7 +71,7 @@ for I in h+'\n':
 	time.sleep (00.010)'''
 print ()
 
-logo6='''
+logo6='''\033[;092m
 
 ░██████╗██████╗░░█████╗░███╗░░░███╗
 ██╔════╝██╔══██╗██╔══██╗████╗░████║
@@ -110,15 +110,15 @@ for I in logo6 +'\n':
 
 i='''\033[1;092m Telegram channel : 
 
- ◇ http://t.me/Techno0099        
+ http://t.me/Techno0099        
 
 Youttube channel  : 
 
- ◇ https://youtube.com/channel/UCAbtkFAe9yyX0HJNFXyKJUg 
+ https://youtube.com/channel/UCAbtkFAe9yyX0HJNFXyKJUg 
 
 Facebook:
 
-https://www.facebook.com/AbdullahSalah0099/
+ https://www.facebook.com/AbdullahSalah0099/
 '''
 for I in i +'\n':
 	sys.stdout.write (I)
