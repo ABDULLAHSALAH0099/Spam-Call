@@ -2,7 +2,7 @@ import random,sys,time,os,pyfiglet
 from bs4 import BeautifulSoup as BS
 from time import sleep
 import requests
-'''
+
 print ('\033[1;95mWelcome')
 sleep (1)
 print ()
@@ -27,7 +27,7 @@ if password in lxc:
 else:
     print ()
     print ('\033[1;91mError Password')
-    exit()
+    #exit()
 
 c=('\033[1;092m××××××××××××××××××××××××××××××××××××')
 for I in c+'\n':
@@ -39,42 +39,28 @@ d =('\033[1;092m#####Welcome To AbdullahScript#####')
 for I in d +'\n':
 	sys.stdout.write (I)
 	sys.stdout.flush ()
-	time.sleep (00.090)
+	time.sleep (00.0080)
 print ()
 p=('\033[1;092m##### Script Spam Call #####')
 for I in p+'\n':
 	sys.stdout.write (I)
 	sys.stdout.flush ()
-	time.sleep (00.080)
+	time.sleep (00.0040)
 print ()
 u=('\033[1;092m### Projected By Abdullah Salah###')
 for I in u+'\n':
 	sys.stdout.write (I)
 	sys.stdout.flush ()
-	time.sleep (00.080)
+	time.sleep (00.040)
 print ()
-print ('\033[1;091m')
-h=pyfiglet.figlet_format ('ABDULLAH')
+#print ('\033[1;091m')
+'''h=pyfiglet.figlet_format ('ABDULLAH')
 for I in h+'\n':
 	sys.stdout.write (I)
 	sys.stdout.flush ()
-	time.sleep (00.010)
+	time.sleep (00.010)'''
 print ()
-i=''\033[1;092m Telegram channel : 
 
-  ◇ http://t.me/Techno0099
-
-            
-
-Youttube channel  : 
-
- ◇ https://youtube.com/channel/UCAbtkFAe9yyX0HJNFXyKJUg ''
-for I in i +'\n':
-	sys.stdout.write (I)
-	sys.stdout.flush ()
-	time.sleep (00.030)
-print ()
-'''
 logo6='''
 
 ░██████╗██████╗░░█████╗░███╗░░░███╗
@@ -89,10 +75,48 @@ logo6='''
 ██║░░╚═╝███████║██║░░░░░██║░░░░░
 ██║░░██╗██╔══██║██║░░░░░██║░░░░░
 ╚█████╔╝██║░░██║███████╗███████╗
-░╚════╝░╚═╝░░╚═╝╚══════╝╚══════╝'''
-print ('\033[;91m'+logo6)
+░╚════╝░╚═╝░░╚═╝╚══════╝╚══════╝
+
+
+██████╗░██╗░░░██╗
+██╔══██╗╚██╗░██╔╝
+██████╦╝░╚████╔╝░
+██╔══██╗░░╚██╔╝░░
+██████╦╝░░░██║░░░
+╚═════╝░░░░╚═╝░░░
+
+░█████╗░██████╗░██████╗░██╗░░░██╗██╗░░░░░██╗░░░░░
+██╔══██╗██╔══██╗██╔══██╗██║░░░██║██║░░░░░██║░░░░░
+███████║██████╦╝██║░░██║██║░░░██║██║░░░░░██║░░░░░
+██╔══██║██╔══██╗██║░░██║██║░░░██║██║░░░░░██║░░░░░
+██║░░██║██████╦╝██████╔╝╚██████╔╝███████╗███████╗
+╚═╝░░╚═╝╚═════╝░╚═════╝░░╚═════╝░╚══════╝╚══════╝
+'''
+
+for I in logo6 +'\n':
+	sys.stdout.write (I)
+	sys.stdout.flush ()
+	time.sleep (00.0030)
+
+i='''\033[1;092m Telegram channel : 
+
+ ◇ http://t.me/Techno0099        
+
+Youttube channel  : 
+
+ ◇ https://youtube.com/channel/UCAbtkFAe9yyX0HJNFXyKJUg 
+
+Facebook:
+
+https://www.facebook.com/AbdullahSalah0099/
+'''
+for I in i +'\n':
+	sys.stdout.write (I)
+	sys.stdout.flush ()
+	time.sleep (00.0040)
 print ()
-print ()
+print ("\033[1;093m*"*60)
+print()
 c=("1234567890")
 m=("1234567890")
 k=("1234567890")
