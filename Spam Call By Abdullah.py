@@ -9,7 +9,7 @@ print ()
 print ('\033[1;92mclick on this link to get password👇')
 #sleep (0.1)
 print ()
-link1="\033[1;93m https://miklpro.com/CoCwal3"
+link="\033[1;93m https://miklpro.com/CoCwal3"
 print (link)
 #sleep (1)
 print ()
