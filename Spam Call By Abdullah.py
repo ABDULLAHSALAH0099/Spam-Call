@@ -29,7 +29,7 @@ else:
     print ('\033[1;91mError Password')
     #exit()
 
-c=('\033[1;092m××××××××××××××××××××××××××××××××××××')
+"""c=('\033[1;092m××××××××××××××××××××××××××××××××××××')
 for I in c+'\n':
 	sys.stdout.write (I)
 	sys.stdout.flush ()
@@ -47,11 +47,21 @@ for I in p+'\n':
 	sys.stdout.flush ()
 	time.sleep (00.0040)
 print ()
-u=('\033[1;092m### Projected By Abdullah Salah###')
+u=('\033[1;092m### Projected By Abdullah Salah###')"""
+
+u='''
+××××××××××××××××××××××××××××××××××××××××
+
+######## Welcome To AbdullahScript#####
+
+########## Script Spam Call #########
+
+#### Projected By Abdullah Salah###'''
 for I in u+'\n':
+
 	sys.stdout.write (I)
 	sys.stdout.flush ()
-	time.sleep (00.040)
+	time.sleep (00.050)
 print ()
 #print ('\033[1;091m')
 '''h=pyfiglet.figlet_format ('ABDULLAH')
