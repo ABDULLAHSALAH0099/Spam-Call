@@ -29,25 +29,6 @@ else:
     print ('\033[1;91mError Password')
     #exit()
 
-"""c=('\033[1;092m×××××××××××××××××××××××××××××××××××××')
-for I in c+'\n':
-	sys.stdout.write (I)
-	sys.stdout.flush ()
-	time.sleep (00.020)
-print ()
-d =('\033[1;092m#####Welcome To AbdullahScript#####')
-for I in d +'\n':
-	sys.stdout.write (I)
-	sys.stdout.flush ()
-	time.sleep (00.0080)
-print ()
-p=('\033[1;092m##### Script Spam Call #####')
-for I in p+'\n':
-	sys.stdout.write (I)
-	sys.stdout.flush ()
-	time.sleep (00.0040)
-print ()
-u=('\033[1;092m### Projected By Abdullah Salah###')"""
 
 nn=
 '''×××××××××××××××××××××××××××××××××××××××××
