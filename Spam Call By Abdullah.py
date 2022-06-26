@@ -27,10 +27,10 @@ if password in lxc:
 else:
     print ()
     print ('\033[1;91mError Password')
-    #exit()
+    exit()
 
 
-nn='''×××××××××××××××××××××××××××××××××××××××××
+nn='''\033[1;92m××××××××××××××××××××××××××××××××××××××××
 
 ######## Welcome To AbdullahScript#####
 
