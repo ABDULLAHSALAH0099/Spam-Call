@@ -49,19 +49,19 @@ for I in p+'\n':
 print ()
 u=('\033[1;092m### Projected By Abdullah Salah###')"""
 
-u='''
-×××××××××××××××××××××××××××××××××××××××××
+nn=
+'''×××××××××××××××××××××××××××××××××××××××××
 
 ######## Welcome To AbdullahScript#####
 
 ########## Script Spam Call #########
 
 #### Projected By Abdullah Salah###'''
-for I in u+'\n':
+for I in nn+'\n':
 
 	sys.stdout.write (I)
 	sys.stdout.flush ()
-	time.sleep (00.030)
+	time.sleep (00.040)
 print ()
 #print ('\033[1;091m')
 '''h=pyfiglet.figlet_format ('ABDULLAH')
@@ -69,10 +69,8 @@ for I in h+'\n':
 	sys.stdout.write (I)
 	sys.stdout.flush ()
 	time.sleep (00.010)'''
-print ()
 
 logo6='''\033[;092m
-
 ░██████╗██████╗░░█████╗░███╗░░░███╗
 ██╔════╝██╔══██╗██╔══██╗████╗░████║
 ╚█████╗░██████╔╝███████║██╔████╔██║
@@ -106,7 +104,7 @@ logo6='''\033[;092m
 for I in logo6 +'\n':
 	sys.stdout.write (I)
 	sys.stdout.flush ()
-	time.sleep (00.0030)
+	time.sleep (00.0010)
 
 i='''\033[1;092m Telegram channel : 
 
@@ -123,7 +121,7 @@ Facebook:
 for I in i +'\n':
 	sys.stdout.write (I)
 	sys.stdout.flush ()
-	time.sleep (00.0040)
+	time.sleep (00.0050)
 print ()
 print ("\033[1;093m*"*60)
 print()
