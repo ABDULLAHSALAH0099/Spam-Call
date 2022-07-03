@@ -2,7 +2,7 @@ import random,sys,time,os,pyfiglet
 from bs4 import BeautifulSoup as BS
 from time import sleep
 import requests
-
+#
 print ('\033[1;95mWelcome')
 sleep (1)
 print ()
