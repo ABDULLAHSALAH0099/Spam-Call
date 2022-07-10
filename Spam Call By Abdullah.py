@@ -42,7 +42,7 @@ for I in nn+'\n':
 	sys.stdout.write (I)
 	sys.stdout.flush ()
 	time.sleep (00.040)
-print ()
+print (
 #print ('\033[1;091m')
 '''h=pyfiglet.figlet_format ('ABDULLAH')
 for I in h+'\n':
